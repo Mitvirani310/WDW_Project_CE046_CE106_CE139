@@ -334,8 +334,8 @@ section .title::after {
 
 .card:hover {
     transform: translateY(-20px);
-    box-shadow: 0 0 20px #0f700b;
-    text-shadow: 0 0 20px #ff7c10;
+    box-shadow: 0 0 20px #d3df32;
+    text-shadow: 0 0 20px #e64cbf;
 }
 
 .og-grid li img{
