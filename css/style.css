@@ -246,6 +246,7 @@ section .title::after {
 .ghome .home-content .text,
 .rhome .home-content .text {
     font-size: 40px;
+    padding-top: 150px;
     text-align: center;
 }
 
@@ -332,6 +333,21 @@ section .title::after {
 
 .card:hover {
     transform: translateY(-20px);
+}
+
+.og-grid li img{
+    transition: 0.5s ease-out;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+.og-grid li img:hover {
+    -webkit-filter: grayscale(100%);
+    box-shadow: 0 0 20px #ffee10;
+    text-shadow: 0 0 20px #ffee10;
 }
 
 .card:hover:before {
