@@ -335,7 +335,7 @@ section .title::after {
 .card:hover {
     transform: translateY(-20px);
     box-shadow: 0 0 20px #ffee10;
-    text-shadow: 0 0 20px #ffee10;
+    
 }
 
 .og-grid li img{
