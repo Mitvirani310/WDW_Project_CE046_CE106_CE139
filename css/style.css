@@ -334,7 +334,7 @@ section .title::after {
 
 .card:hover {
     transform: translateY(-20px);
-    box-shadow: 0 0 20px #f80404e8;
+    box-shadow: 0 0 20px #ec4444e8;
     text-shadow: 0 0 25px #ffee10
 }
 
